@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJiraynor)](https://github.com/devJiraynor)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devJiraynor&layout=compact)](https://github.com/devJiraynor)
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spring-E4405F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
