@@ -2,4 +2,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJiraynor&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devJiraynor&repo=java-basic-20240118)](https://github.com/anuraghazra/github-readme-stats)
+
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
