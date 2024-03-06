@@ -2,4 +2,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJiraynor&show_icons=true&theme=rose_pine)](https://github.com/devJiraynor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devJiraynor&repo=java-basic-20240118)](https://github.com/devJiraynor/java-basic-20240118)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJiraynor)](https://github.com/devJiraynor)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devJiraynor&layout=compact)](https://github.com/devJiraynor)
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
