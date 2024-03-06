@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=2b90d9&height=200&section=header&text=서지훈&fontSize=30&fontColor=d9e1e8)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJiraynor&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devJiraynor&repo=java-basic-20240118)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJiraynor&show_icons=true&theme=rose_pine)](https://github.com/devJiraynor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devJiraynor&repo=java-basic-20240118)](https://github.com/devJiraynor/java-basic-20240118)
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=9baec8&height=100&section=footer)
